@@ -2,6 +2,9 @@
 
 You can learn more about this popular list by [clicking here](https://neetcode.io/practice?ref=siddhesh.tv)
 
+Current solutions are in Python. I will try to add solutions in C++ as well.
+PS: You are welcome to add solutions in other languages (C/JavaScript/Rust)
+
 ## Interview Prep Resources:
 
 1. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
